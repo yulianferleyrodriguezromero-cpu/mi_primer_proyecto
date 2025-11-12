@@ -1,5 +1,6 @@
 # hola.py
-# Versión mejorada
+# Autor: Yulian Ferley Rodríguez Romero
+# Descripción: Script que saluda al usuario y muestra la longitud de su nombre
 
 nombre = input("¿Cómo te llamas? ")
 print(f"¡Hola, {nombre}! Bienvenido a tu primer proyecto con Git y Python.")
